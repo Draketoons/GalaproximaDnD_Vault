@@ -14,7 +14,6 @@ Home World: Vol, Andromeda Galaxy
 	Most kikrid are aloof and they value solitude and the strength of an individual’s character and will, so if you find kikrid throughout the galaxy, you’ll most likely find them on their own. Once a kikrid reaches a certain age, they are sent to a remote and hazardous part of their planet, called the “Ulk”, and if they make the journey back alive they are deemed ‘worthy’ and can become a part of kikrid society. They will shun the members of their society that are deemed ‘cowardly’ or ‘weak of will’ and banish them to the Ulk.
 
 **ASI:**
-
 1. Str 
     
 2. Dex + 1

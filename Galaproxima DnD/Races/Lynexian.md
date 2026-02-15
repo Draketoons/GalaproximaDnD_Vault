@@ -32,7 +32,7 @@ Power Kick:
 	The Lynexian stands on their tail and then performs a powerful kick to whatever creature is standing on the tile in front of them, the target has to make a dex check against the Lynexian’s dex, if they fail, the target will receive 1d6 + str modifier bludgeoning damage knocking the target back a tile.
 
 Passive:
-	Lynexians are very sensitive to high-frequency sounds due to their 3 large ears and can be easily overwhelmed if such a sound is played. All rolls are at a disadvantage while the character can still hear the sound.
+1. Lynexians are very sensitive to high-frequency sounds due to their 3 large ears and can be easily overwhelmed if such a sound is played. All rolls are at a disadvantage while the character can still hear the sound.
 
 **Proficiencies:**
 
