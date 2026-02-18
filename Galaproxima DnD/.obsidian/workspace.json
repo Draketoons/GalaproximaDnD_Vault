@@ -11,10 +11,14 @@
             "id": "00822f4cc56bbfde",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Races/Lynexian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lynexian"
             }
           },
           {
@@ -49,6 +53,62 @@
             "id": "fdfda3eeb5248223",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Lynexian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lynexian"
+            }
+          },
+          {
+            "id": "2f76530daea47a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineer"
+            }
+          },
+          {
+            "id": "4b6170c7bf11d189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Sharp-Shooter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sharp-Shooter"
+            }
+          },
+          {
+            "id": "757cf00b23d0b29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Pilot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pilot"
+            }
+          },
+          {
+            "id": "0891c1dbcf3c1adf",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -56,19 +116,35 @@
             }
           },
           {
-            "id": "0891c1dbcf3c1adf",
+            "id": "c686c92fa43d28f9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Classes/Resomancer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Resomancer"
+            }
+          },
+          {
+            "id": "fa388fbe41128661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineer"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -121,7 +197,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,20 +307,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "00822f4cc56bbfde",
+  "active": "fa388fbe41128661",
   "lastOpenFiles": [
+    "Classes/Medic.md",
+    "Classes/Pilot.md",
+    "Classes/Resomancer.md",
+    "Classes/Sharp-Shooter.md",
+    "Classes/Engineer.md",
+    "Classes/Classes.md",
+    "Untitled",
+    "Races/Lynexian.md",
+    "Races/Polloom.md",
+    "Races/Kikrid.md",
+    "Races/Cat.md",
+    "Races/Vikryl.md",
+    "Races/Races.md",
     "Races/Bot.md",
+    "Races/Shau.md",
     "Untitled.base",
+    "Classes",
     "Untitled.canvas",
     "Races/Xeeb.md",
-    "Races/Cat.md",
-    "Races/Kikrid.md",
-    "Races/Vikryl.md",
     "Races/Qoro.md",
-    "Races/Polloom.md",
-    "Races/Lynexian.md",
-    "Races/Shau.md",
-    "Races/Races.md",
     "Welcome.md",
     "create a link.md",
     "Races"
