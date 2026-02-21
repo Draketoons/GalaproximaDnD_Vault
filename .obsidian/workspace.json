@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "896224a62fa2c861",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d96edd654b773ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d8c246b4411a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Classes/Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineer"
+            }
+          },
+          {
+            "id": "d5f50a875f34975f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Classes/Soldier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldier"
+            }
+          },
+          {
+            "id": "784cef8f5e312872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Classes/Pilot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pilot"
+            }
+          },
+          {
+            "id": "9ad2df60d31ceaac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Character Info/Skills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills"
+            }
+          },
+          {
+            "id": "6ca8a5d40c7a5a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Classes/Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineer"
+            }
+          },
+          {
+            "id": "8f2ac68218a78551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Classes/Soldier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldier"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ece6a6e69a86e9e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "abfb3e7f19ca5446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dab71fee1dd90066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9696035c82eed51d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "410df87c0862f86a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d693fc394744bc76",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbda8cf453886ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219a154eaacd9252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Galaproxima DnD/Races/Kikrid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kikrid"
+            }
+          },
+          {
+            "id": "8efc1e473f054ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Galaproxima DnD/Races/Kikrid.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kikrid"
+            }
+          },
+          {
+            "id": "773a9f8ceff22941",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b31b4f404fe8415",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "edef3dc0d640b94b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Galaproxima DnD/Races/Kikrid.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kikrid"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8f2ac68218a78551",
+  "lastOpenFiles": [
+    "Galaproxima DnD/Classes/Medic.md",
+    "Galaproxima DnD/Classes/Engineer.md",
+    "Galaproxima DnD/Classes/Bandit.md",
+    "Galaproxima DnD/Classes/Soldier.md",
+    "Galaproxima DnD/Classes/Sharp-Shooter.md",
+    "Galaproxima DnD/Classes/Resomancer.md",
+    "Galaproxima DnD/Classes/Pilot.md",
+    "Galaproxima DnD/Classes/Classes.md",
+    "Galaproxima DnD/Classes/Base Class.md",
+    "Galaproxima DnD/Races/Xeeb.md",
+    "Galaproxima DnD/Races/Shau.md",
+    "Galaproxima DnD/Races/Qoro.md",
+    "Galaproxima DnD/Races/Cyform.md",
+    "Galaproxima DnD/Races/Lynexian.md",
+    "Galaproxima DnD/Character Info/Skills.md",
+    "Galaproxima DnD/PDFs/Bot.pdf",
+    "Galaproxima DnD/Character Info/Abilities.md",
+    "Galaproxima DnD/PDFs",
+    "Galaproxima DnD/Character Info",
+    "Galaproxima DnD/PDFs/Cat.pdf",
+    "Galaproxima DnD/PDFs/Kikrid.pdf",
+    "Galaproxima DnD/Races/Kikrid.md",
+    "Galaproxima DnD/Races/Cat.md"
+  ]
+}

@@ -1,0 +1,19 @@
+1. Acrobatics
+2. Animal Handling
+3. Resonance
+4. Athletics
+5. Deception
+6. History
+7. Insight
+8. Intimidation
+9. Investigation
+10. Medicine
+11. Nature
+12. Perception
+13. Performance
+14. Persuasion
+15. Religion
+16. Slight of Hand
+17. Stealth
+18. Survival
+19. Tech

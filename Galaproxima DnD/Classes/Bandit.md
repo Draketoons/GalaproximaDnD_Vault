@@ -4,11 +4,10 @@ tags:
 ---
 [[Classes]]
 **Primary Abilities:**
-1. Wisdom
-2. Constitution
+1. Dexterity
 
 **Saving Throw Proficiencies:**
-1. 
+1. Dexterity
 
 **Hit Point Die:**
 	

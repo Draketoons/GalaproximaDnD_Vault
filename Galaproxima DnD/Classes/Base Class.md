@@ -4,8 +4,7 @@ tags:
 ---
 [[Classes]]
 **Primary Abilities:**
-1. Wisdom
-2. Constitution
+1. 
 
 **Saving Throw Proficiencies:**
 1. 
