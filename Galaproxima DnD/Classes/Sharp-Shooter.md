@@ -3,6 +3,11 @@ tags:
   - Class
 ---
 [[Classes]]
+**Hit Points:**
+	6
+**Stamina Points:**
+	6
+
 **Primary Abilities:**
 1. Dexterity
 
@@ -10,6 +15,9 @@ tags:
 1. 
 
 **Hit Point Die:**
+	
+
+**Stamina Point Die:**
 	
 
 **Skill Proficiencies:**

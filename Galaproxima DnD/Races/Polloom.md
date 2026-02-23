@@ -13,6 +13,9 @@ Home World: Moyli, moon of Ipryl, Andromeda Galaxy
 **Culture/Politics:**
 	Pollooms greatly value nature and ecological balance, in fact all of their technology is grown rather than manufactured. In other words all their tech is essentially just highly specialized and complex plants, which includes their spaceships, weapons, etc. They developed this way because developing technology any other way could harm their planet and disrupt their way of life. Pollooms strongly believe in their way of advancement and spacefaring and are highly critical of all the other races who have developed tech the more straightforward way, doing ecological harm to their home worlds. 
 
+**Hit Points:** 
+	2
+
 **ASI:**
 
 1. Str - 3

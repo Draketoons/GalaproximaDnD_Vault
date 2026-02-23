@@ -13,6 +13,9 @@ Home World: Malo, Andromeda Galaxy
 **Culture/Politics:**
 	The Qoro greatly value scientific progress and development, which makes them very utilitarian in nature. They can come off as cold and indifferent but they really don't mean anything by it as they make decisions based off of what they consider to be the greater good. The qoro consider most feelings like love or attachment to be irrational, and believe that pure logical and rational thought is the best way forward, so for any qoro that develop these kinds of emotional reactions they get 'reeducated' and are discouraged to give into these kinds of mushy feelings. The qoro are exceptional at developing new kinds of materials for various applications, so their home world, Malo, is a material manufacturing hub for the galaxy.
 
+**Hit Points:** 
+	6
+
 **ASI:** 
 1. Str + 4
     

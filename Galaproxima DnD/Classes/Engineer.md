@@ -3,6 +3,11 @@ tags:
   - Class
 ---
 [[Classes]]
+**Hit Points:**
+	6
+**Stamina Points:**
+	6
+
 **Primary Abilities:**
 1. Intelligence
 
@@ -10,7 +15,8 @@ tags:
 1. Intelligence
 
 **Hit Point Die:**
-	
+	1st Level: D8 + con modifier
+	D8 per-level
 
 **Skill Proficiencies:**
 1. 

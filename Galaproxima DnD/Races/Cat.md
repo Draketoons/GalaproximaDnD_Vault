@@ -10,6 +10,9 @@ Home World: Earth, Milky Way Galaxy
 **Details**:
 	Just your typical earth cat
 
+**Hit Points:** 
+	3
+
 **ASI:**
 
 1. Str - 2

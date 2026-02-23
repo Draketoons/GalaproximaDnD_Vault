@@ -13,6 +13,9 @@ Home world: Norak, Andromeda Galaxy
 **Culture/Politics:**
 	Their home world, Norak, used to be the shining example for democracy in the galaxy as they helped spread it to create a stable galactic order which became known as the “Worlds Collective”. But after one fateful election cycle, they voted in a fascist autocrat who eventually took over the entire Norakian government. Now, he has his eyes on the rest of the galaxy as his regime’s influence spreads, throwing the entire galaxy into political turmoil and war.
 
+**Hit Points:** 
+	4
+
 **ASI:**
 1. Str
     

@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Engineer.md",
+                "file": "Classes/Resomancer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engineer"
+              "title": "Resomancer"
             }
           }
         ],
@@ -309,26 +309,30 @@
   },
   "active": "fa388fbe41128661",
   "lastOpenFiles": [
-    "Classes/Medic.md",
     "Classes/Pilot.md",
+    "Classes/Engineer.md",
     "Classes/Resomancer.md",
     "Classes/Sharp-Shooter.md",
-    "Classes/Engineer.md",
+    "Classes/Soldier.md",
+    "Classes/Medic.md",
     "Classes/Classes.md",
-    "Untitled",
+    "Classes/Base Class.md",
+    "Classes/Bandit.md",
+    "Races/Qoro.md",
+    "Races/Cat.md",
+    "Races/Cyform.md",
+    "Races/Kikrid.md",
     "Races/Lynexian.md",
     "Races/Polloom.md",
-    "Races/Kikrid.md",
-    "Races/Cat.md",
-    "Races/Vikryl.md",
     "Races/Races.md",
-    "Races/Bot.md",
     "Races/Shau.md",
+    "Races/Vikryl.md",
+    "Races/Xeeb.md",
+    "Untitled",
+    "Races/Bot.md",
     "Untitled.base",
     "Classes",
     "Untitled.canvas",
-    "Races/Xeeb.md",
-    "Races/Qoro.md",
     "Welcome.md",
     "create a link.md",
     "Races"

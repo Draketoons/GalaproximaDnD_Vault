@@ -3,6 +3,11 @@ tags:
   - Class
 ---
 [[Classes]]
+**Hit Points:**
+	5
+**Stamina Points:**
+	6
+
 **Primary Abilities:**
 1. Wisdom
 
@@ -10,6 +15,10 @@ tags:
 1. Wisdom
 
 **Hit Point Die:**
+	1st Level: D6 + con modifier
+	D6 per-level
+
+**Stamina Point Die:**
 	D6 per-level
 
 **Skill Proficiencies:**

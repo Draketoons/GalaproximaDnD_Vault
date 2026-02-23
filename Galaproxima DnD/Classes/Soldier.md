@@ -3,6 +3,11 @@ tags:
   - Class
 ---
 [[Classes]]
+**Hit Points:**
+	7
+**Stamina Points:**
+	7
+
 **Primary Abilities:**
 1. Constitution
 2. Strength
@@ -11,6 +16,9 @@ tags:
 1. 
 
 **Hit Point Die:**
+	
+
+**Stamina Point Die:**
 	
 
 **Skill Proficiencies:**

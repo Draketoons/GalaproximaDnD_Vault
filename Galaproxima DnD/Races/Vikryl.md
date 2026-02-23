@@ -13,6 +13,9 @@ Home World: Hooshi, Andromeda Galaxy
 **Culture/Politics:**
 	Broadly, the vikryl value the arts, and particularly fashion. Throughout the development of vikryl society they have been obsessed with using artistic expression to find meaning in the vastness of the universe. Their home world, Hooshi, is the fashion center of the galaxy, in fact, the vikryl hosts a galactically renowned fashion show every now and then which usually dictates what the next fashion trends will be for the next several cycles. They're culture of art and fashion can be beautiful but also brutally competitive.
 
+**Hit Points:** 
+	3
+
 **ASI:**
 
 1. Str - 1

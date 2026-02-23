@@ -3,6 +3,11 @@ tags:
   - Class
 ---
 [[Classes]]
+**Hit Points:**
+	6
+**Stamina Points:**
+	6
+
 **Primary Abilities:**
 1. Wisdom
 2. Constitution

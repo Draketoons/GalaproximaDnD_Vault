@@ -13,6 +13,9 @@ Details:
 **Culture/Politics:**
 	Due to their constant intoxication, they have achieved world peace ever since their civilization’s conception, basically an entire planet of hippies, this also influences them to be a very spiritual race as they worship the fungi that gave them their way of life. Their customs discourage the use of excessive clothing, so the most the average shau will wear is something akin to a poncho or some sort of shawl, but most prefer to be nude. There’s a certain minority of shau that have developed a tolerance to the fungi’s effect and because of this their sense of identity and ideals don’t exactly align with the norms of Gatra, so most of those shau leave their home world in search of a new life throughout the galaxy. These special shau also developed space travel, as the rest of their race didn’t exactly have an interest in it.
 
+**Hit Points:** 
+	4
+
 **ASI:**
 
 1. Str - 1

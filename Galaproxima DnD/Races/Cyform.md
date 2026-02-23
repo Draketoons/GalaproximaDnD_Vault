@@ -11,7 +11,10 @@ tags:
 **Culture/Politics:**
 	Ever sense the great sentience calamity, an event where a conscious AI went rogue and assimilated a decent portion of the galaxy but was miraculously fought off and defeated by the forces of the Worlds Collective, the Collective passed a law banning any form of true, sentient, AI. Because of this law, any cyform that seems a little toosentient or self-aware must be deactivated and destroyed according the the law. But unbeknownst to the galactic government, there remains a few sentient cyforms scattered around the galaxy making a life for themselves hidden from the eyes of the law.
 
-Home World: Depends on where it was made
+**Home World:** Depends on where it was made
+
+**Hit Points:** 
+	5
 
 **ASI:**
 

@@ -13,6 +13,9 @@ Home World: Blebi, Milky Way Galaxy
 **Culture/Politics:**
 	Because the Xeeb are from the Milky Way, not much is known about them or their home world among the inhabitants of the Andromeda galaxy, which makes them illusive and mysterious to most lifeforms. A few of them do travel to Andromeda and call it home for various reasons, so they can be seen randomly scattered around the galaxy, but it's very rare. They have also visited Earth several times and the sightings of them there is where the traditional alien depictions by humans come from. The xeeb's home world was destroyed when their star went supernova, so after that event, the remaining xeeb that escaped are scattered across the stars between Andromeda and the Milky Way. They all hope that some day they can find a new planet for the xeeb to call home.
 
+**Hit Points:** 
+	3
+
 **ASI:**
 
 (Compressed Form):

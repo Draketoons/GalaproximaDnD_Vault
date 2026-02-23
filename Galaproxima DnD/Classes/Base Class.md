@@ -3,6 +3,11 @@ tags:
   - Class
 ---
 [[Classes]]
+**Hit Points:**
+	0
+**Stamina Points:**
+	0
+
 **Primary Abilities:**
 1. 
 
