@@ -16,8 +16,7 @@ tags:
 2. Constitution
 
 **Hit Point Die:**
-	1st Level: D8 + con modifier
-	D8 per-level
+	1d8 per-level
 
 **Skill Proficiencies:**
 1. Engineering

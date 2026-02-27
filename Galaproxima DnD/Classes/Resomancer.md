@@ -16,7 +16,7 @@ tags:
 
 **Hit Point Die:**
 	1st Level: D6 + con modifier
-	D6 per-level
+	1d6 per-level
 
 **Stamina Point Die:**
 	D6 per-level
