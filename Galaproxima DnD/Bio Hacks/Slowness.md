@@ -1,1 +1,1 @@
-gbWhen a life-form is affected by a slowness bio-hack, their movement speed is decreased by their dexterity modifier for the rest of the battle.
+When a life-form is affected by a slowness bio-hack, their movement speed is decreased by their dexterity modifier for the rest of the battle.
