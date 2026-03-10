@@ -1,0 +1,1 @@
+If a life-form is affected by a poison bio-hack, at the start of it's turn it will take damage equal to it's constitution modifier
