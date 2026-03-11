@@ -125,16 +125,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Galaproxima DnD/Bio Hacks/Slowness.md",
+                "file": "Galaproxima DnD/Bio Hacks/Dexterity Boost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slowness"
+              "title": "Dexterity Boost"
+            }
+          },
+          {
+            "id": "cc6caf67a4313adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Bio Hacks/Blobification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blobification"
+            }
+          },
+          {
+            "id": "0b8114ddadbb3172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Songs/Verse of Gravitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verse of Gravitation"
+            }
+          },
+          {
+            "id": "a5a0c494d300ff9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Songs/Verse of Gravitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verse of Gravitation"
+            }
+          },
+          {
+            "id": "b75254f2c9d3e124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galaproxima DnD/Classes/Bandit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bandit"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -296,20 +352,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "c87aac0ba76b6646",
+  "active": "b75254f2c9d3e124",
   "lastOpenFiles": [
-    "Galaproxima DnD/Bio Hacks/Dexity.md",
+    "Galaproxima DnD/Classes/Medic.md",
+    "Galaproxima DnD/Classes/Bandit.md",
+    "Galaproxima DnD/Classes/Sharp-Shooter.md",
+    "Galaproxima DnD/Songs/Verse of Bolt.md",
+    "Galaproxima DnD/Songs/Verse of Spontaneous Combustion.md",
+    "Galaproxima DnD/Songs/Verse of Gravitation.md",
+    "Galaproxima DnD/Bio Hacks/Blobification.md",
+    "Galaproxima DnD/Songs",
     "Galaproxima DnD/Bio Hacks/Strength-Boost.md",
     "Galaproxima DnD/Bio Hacks/Slowness.md",
     "Galaproxima DnD/Bio Hacks/Poison.md",
-    "Galaproxima DnD/Classes/Sharp-Shooter.md",
-    "Galaproxima DnD/Classes/Resomancer.md",
-    "Galaproxima DnD/Classes/Pilot.md",
-    "Galaproxima DnD/Classes/Medic.md",
-    "Galaproxima DnD/Classes/Engineer.md",
-    "Galaproxima DnD/Classes/Bandit.md",
-    "Galaproxima DnD/Classes/Classes.md",
+    "Galaproxima DnD/Bio Hacks/Blobification Antitode.md",
+    "Galaproxima DnD/Bio Hacks/Dexterity Boost.md",
     "Galaproxima DnD/Classes/Base Class.md",
+    "Galaproxima DnD/Classes/Resomancer.md",
+    "Galaproxima DnD/Classes/Engineer.md",
+    "Galaproxima DnD/Classes/Pilot.md",
+    "Galaproxima DnD/Classes/Classes.md",
     "Galaproxima DnD/Equipment/Syringe Gun.md",
     "Galaproxima DnD/Equipment",
     "Galaproxima DnD/Races/Xeeb.md",
@@ -325,8 +387,6 @@
     "Galaproxima DnD/PDFs",
     "Galaproxima DnD/Character Info",
     "Galaproxima DnD/PDFs/Cat.pdf",
-    "Galaproxima DnD/PDFs/Kikrid.pdf",
-    "Galaproxima DnD/Races/Kikrid.md",
-    "Galaproxima DnD/Races/Cat.md"
+    "Galaproxima DnD/PDFs/Kikrid.pdf"
   ]
 }

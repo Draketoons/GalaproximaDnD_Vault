@@ -1,1 +1,1 @@
-If a life-form is affected by a strength-boost bio hack, it's strength modifier will be doubled, but it's dexterity modifier will be divided by 2 rounded to the lowest number
+If a life-form is affected by a strength-boost bio hack, it's strength modifier will be doubled, but it's dexterity modifier will be halved and rounded to the lowest number. This bio-hack effect lasts a minute

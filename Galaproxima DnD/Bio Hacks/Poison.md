@@ -1,1 +1,1 @@
-If a life-form is affected by a poison bio-hack, at the start of it's turn it will take damage equal to it's constitution modifier
+If a life-form is affected by a poison bio-hack, that life-form must succeed in a constitution saving throw, if it fails, the bio-hack will take affect and at the start of each turn it will take poison damage equal to it's constitution modifier. After 3 turns, the life-form can make another constitution saving throw to see if it can get over it, if it succeeds than the bio-hack will no longer be active.

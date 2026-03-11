@@ -12,22 +12,31 @@ tags:
 1. Dexterity
 
 **Saving Throw Proficiencies:**
-1. 
+1. Strength
+2. Dexterity
 
 **Hit Point Die:**
-	
+	1d4
 
 **Stamina Point Die:**
-	
+	1d10
 
 **Skill Proficiencies:**
-1. 
+	Choose three from:
+	- Athletics
+	- Insight
+	- Perception
+	- Survival
+	- Investigation
 
 **Weapon Proficiencies**
-2. 
+1. Guns
 
 **Starting Equipment**
-1. 
+1. Choose 1 Between:
+	 - Energy Rifle
+	 - Energy Pistol
+2. 3 Rechargeable Mags
 
 **Description:**
 	
@@ -36,6 +45,7 @@ tags:
 	Level 1:
 		Proficiency bonus: +
 		Class Features:
+			- Favored Target
 		Verses: 0
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -51,6 +61,7 @@ tags:
 	Level 2:
 		Proficiency bonus: +
 		Class Features:
+			- High Noon
 		Verses: 0
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -340,4 +351,6 @@ tags:
 
 Abilities:
 	High Noon:
-		As an action, and if the sharp-shooter is using a gun of any type, a sharp-shooter can choose up to 4 enemies that they are able to see, and deal whatever the damage of their weapon deals consuming 4 rounds of ammunition.
+		As an action, and if the sharp-shooter is using a gun of any type, a sharp-shooter can choose up to 4 enemies that they are able to see, and deal whatever the damage of their weapon deals consuming 4 rounds of ammunition. This ability can only be used once per battle.
+	Favored Target:
+		As an action, a sharp-shooter can pick an enemy, make a constitution check with DC 12, and if they succeed, for their next attack on that enemy they gain advantage on both their attack and damage rolls. Their constitution modifier is also added to the total damage of the attack if it is positive. After that is done, their next attack on that target is back to a normal attack. This ability can only be used twice per battle.
