@@ -32,10 +32,13 @@ tags:
 		- Stealth
 
 **Weapon Proficiencies**
-1. 
+1. Simple weapons
+2. Blades
 
 **Starting Equipment**
-1. 
+1. Cloaking device
+2. Dagger
+3. Hack pad
 
 **Description:**
 	

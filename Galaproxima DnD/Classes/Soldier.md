@@ -13,22 +13,37 @@ tags:
 2. Strength
 
 **Saving Throw Proficiencies:**
-1. 
+1. Strength
+2. Constitution
 
 **Hit Point Die:**
-	
+	1d4
 
 **Stamina Point Die:**
-	
+	1d10
 
 **Skill Proficiencies:**
-1. 
+	Choose two from:
+		- Acrobatics
+		- Animal Handling
+		- Athletics
+		- Insight
+		- History
+		- Insight
+		- Intimidation
+		- Perception
+		- Survival
 
 **Weapon Proficiencies**
-2. 
+1. Simple Weapons
+2. Guns
 
 **Starting Equipment**
-1. 
+1. Choose 1 from:
+	- Energy Pistol
+	- Energy Rifle
+	- Kinetic Pistol
+	- Kinetic Rifle
 
 **Description:**
 	

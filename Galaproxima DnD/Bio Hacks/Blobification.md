@@ -1,1 +1,2 @@
+[[Bio-Hacks]]
 If a lifeform is affected by a blobification bio-hack, they must make a constitution saving through against their strength stat, or they will succumb to the effect. If the effect is active, the life-form's body will slowly start to turn into an unrecognizable mushy blob as their genetic code is systematically broken down. At the start of the life-form's turn their strength, dexterity, intelligence, and speed will be decreased by 10% until it reaches 0. At that point the life-form is nothing more than an blob of homogenous biomass.

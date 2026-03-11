@@ -32,10 +32,10 @@ tags:
 3. Dart Gun
 
 **Description:**
-	Medics have committed their lives to the study of the biology and anatomy of nearly every race in the galaxy and are able to tend to their wounds. Medics are also able to modify a life-form's biology to gain an advantage or support an ally.
+	Xeno-Biologists have committed their lives to the study of the biology and anatomy of nearly every race in the galaxy and are able to tend to their wounds. Medics are also able to modify a life-form's biology to gain an advantage or support an ally.
 
 **Features:**
-	Bio-Hacks:
+	[[Bio-Hacks]]:
 		Medics can modify another life-forms biology, typically using special serums injected through darts or syringes. Cyforms and Qoros are not effected by bio-hacks.
 
 **Class Levels:**

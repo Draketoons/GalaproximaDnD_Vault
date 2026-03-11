@@ -1,1 +1,2 @@
+[[Bio-Hacks]]
 This bio-hack reverses the affect of blobification if injected. This is only effective if the blobification is incomplete, otherwise blobification is irreversible.

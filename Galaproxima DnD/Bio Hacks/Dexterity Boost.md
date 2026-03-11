@@ -1,1 +1,2 @@
+[[Bio-Hacks]]
 If a life form is affected by a dexterity boost bio hack, their dexterity modifier is doubled but their strength modifier is halved and rounded to the lowest number.  This bio-hack effect lasts a minute
