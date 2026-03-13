@@ -1,0 +1,2 @@
+[[Equipment]]
+A syringe can hold any kind of liquid, but it is especially used by Xeno-Biologists who use special fluid which inflicts bio hacks and can store such fluids within syringes to inject into other life-forms. If a unit has a syringe on them, they can take an action to try and inject whatever is in it into another lifeform. If the receiving life-form is unwilling the receiving life-from must make a strength saving throw, if they fail the syringe is injected. Can be loaded into a syringe gun.

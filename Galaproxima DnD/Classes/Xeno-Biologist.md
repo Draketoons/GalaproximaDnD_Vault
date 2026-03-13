@@ -14,17 +14,22 @@ tags:
 
 **Saving Throw Proficiencies:**
 1. Intelligence
+2. Wisdom
 
 **Hit Point Die:**
 	1d8 per-level
 
 **Skill Proficiencies:**
 1. Medicine
-2. Tech
-3. Insight
+2. Choose 2 From:
+	 - Tech
+	 - Insight
+	 - Nature
+	 - Animal Handling
+	 - Survival
 
 **Weapon Proficiencies**
-1. None
+	 None
 
 **Starting Equipment**
 1. Cauterizer
@@ -42,7 +47,7 @@ tags:
 	Level 1:
 		Proficiency bonus: +2
 		Class Features:
-		Bio-Hacking
+			Bio-Hacking
 		Verses: 3
 		Prepared Songs: 0
 		Song Slots Per Song Level:

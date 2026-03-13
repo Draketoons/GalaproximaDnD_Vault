@@ -87,7 +87,7 @@ tags:
 	Level 4:
 		Proficiency bonus: +2
 		Class Features:
-		Ability Score Improvement
+			Ability Score Improvement
 		Verses: 4
 		Prepared Songs: 7
 		Song Slots Per Song Level:
@@ -148,7 +148,7 @@ tags:
 	Level 8:
 		Proficiency bonus: +3
 		Class Features:
-		Ability Score Improvement
+			Ability Score Improvement
 		Verses: 4
 		Prepared Songs: 12
 		Song Slots Per Song Level:
@@ -209,7 +209,7 @@ tags:
 	Level 12:
 		Proficiency bonus: +4
 		Class Features:
-		Ability Score Improvement
+			Ability Score Improvement
 		Verses: 5
 		Prepared Songs: 16
 		Song Slots Per Song Level:
@@ -270,7 +270,7 @@ tags:
 	Level 16:
 		Proficiency bonus: +5
 		Class Features:
-		Ability Score Improvement
+			Ability Score Improvement
 		Verses: 5
 		Prepared Songs: 21
 		Song Slots Per Song Level:
@@ -331,7 +331,7 @@ tags:
 	Level 20:
 		Proficiency bonus: +6
 		Class Features:
-		Ability Score Improvement
+			Ability Score Improvement
 		Verses: 5
 		Prepared Songs: 25
 		Song Slots Per Song Level:

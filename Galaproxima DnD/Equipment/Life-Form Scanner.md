@@ -1,0 +1,2 @@
+[[Equipment]]
+The life form scanner is a simple tool which can, as the name suggests, scan for life-forms. If used, it can show how many life-forms are in an area and how far away they are from you. If used in combat scanning counts as a bonus action.

@@ -85,6 +85,7 @@ tags:
 	Level 4:
 		Proficiency bonus: +2
 		Class Features:
+			Ability Score Improvement
 		Verses: 2
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -146,6 +147,7 @@ tags:
 	Level 8:
 		Proficiency bonus: +3
 		Class Features:
+			Ability Score Improvement
 		Verses: 2
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -206,6 +208,7 @@ tags:
 	Level 12:
 		Proficiency bonus: +4
 		Class Features:
+			Ability Score Improvement
 		Verses: 3
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -228,7 +231,7 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 1
-		Level 5: 0
+		Level 5: 1
 		Level 6: 0
 		Level 7: 0
 		Level 8: 0
@@ -243,7 +246,7 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 2
-		Level 5: 0
+		Level 5: 1
 		Level 6: 0
 		Level 7: 0
 		Level 8: 0
@@ -258,7 +261,7 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 2
-		Level 5: 0
+		Level 5: 1
 		Level 6: 0
 		Level 7: 0
 		Level 8: 0
@@ -266,6 +269,7 @@ tags:
 	Level 16:
 		Proficiency bonus: +5
 		Class Features:
+			Ability Score Improvement
 		Verses: 4
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -273,8 +277,8 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 3
-		Level 5: 1
-		Level 6: 0
+		Level 5: 2
+		Level 6: 1
 		Level 7: 0
 		Level 8: 0
 		Level 9: 0
@@ -288,8 +292,8 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 3
-		Level 5: 1
-		Level 6: 0
+		Level 5: 2
+		Level 6: 1
 		Level 7: 0
 		Level 8: 0
 		Level 9: 0
@@ -303,14 +307,15 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 3
-		Level 5: 2
-		Level 6: 0
-		Level 7: 0
+		Level 5: 3
+		Level 6: 1
+		Level 7: 1
 		Level 8: 0
 		Level 9: 0
 	Level 19:
 		Proficiency bonus: +6
 		Class Features:
+			Ability Score Improvement
 		Verses: 4
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -318,11 +323,11 @@ tags:
 		Level 2: 3
 		Level 3: 3
 		Level 4: 3
-		Level 5: 2
-		Level 6: 0
-		Level 7: 0
-		Level 8: 0
-		Level 9: 0
+		Level 5: 3
+		Level 6: 2
+		Level 7: 1
+		Level 8: 1
+		Level 9: 1
 	Level 20:
 		Proficiency bonus: +6
 		Class Features:
@@ -334,7 +339,7 @@ tags:
 		Level 3: 3
 		Level 4: 3
 		Level 5: 3
-		Level 6: 0
-		Level 7: 0
-		Level 8: 0
-		Level 9: 0
+		Level 6: 2
+		Level 7: 1
+		Level 8: 1
+		Level 9: 1
