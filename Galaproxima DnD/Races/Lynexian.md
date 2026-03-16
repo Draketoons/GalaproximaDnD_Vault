@@ -5,7 +5,7 @@ tags:
 [[Races]]
 (Dragon-Kangaroos)
 
-Home world: Norak, Andromeda Galaxy
+Home world: Norak,  Andromeda Galaxy
 
 **Details:**  
 	The Lynexians are a bipedal mammalian race from the planet Norak, known for their strong kangaroo-like legs and their distinct 6 ears, which makes them extremely proficient in hearing, but also incredibly sensitive to certain sounds that are not audible to most races. Their top ears receive high frequency sounds, their middle ears receive the mid-range sounds, and their bottom ears receive low frequency sounds.

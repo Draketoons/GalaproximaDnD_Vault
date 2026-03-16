@@ -34,7 +34,8 @@ tags:
 **Starting Equipment**
 1. Cauterizer
 2. Lifeform Scanner
-3. Dart Gun
+3. Syringe Gun
+4. Portable Bio-Lab
 
 **Description:**
 	Xeno-Biologists have committed their lives to the study of the biology and anatomy of nearly every race in the galaxy and are able to tend to their wounds. Medics are also able to modify a life-form's biology to gain an advantage or support an ally.
