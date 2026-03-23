@@ -41,7 +41,7 @@ tags:
 3. Hack pad
 
 **Description:**
-	
+	Bandits are typically not loyal to any faction in the galaxy. They have mastered the art of stealth and speech to get what they want.
 
 **Features:**
 	Sneak Attack:

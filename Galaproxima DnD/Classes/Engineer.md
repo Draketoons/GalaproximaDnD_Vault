@@ -20,7 +20,11 @@ tags:
 
 **Skill Proficiencies:**
 1. Engineering
-2. Tech
+2. Scavenging
+3. Choose 1 from:
+	- Insight
+	- Tech
+	- Perception
 
 **Weapon Proficiencies**
 1. Guns
@@ -30,10 +34,15 @@ tags:
 1. Multitool
 2. 3 frag grenades
 3. 2 EMP grenades
-4. Tinkerer's kit
+4. 1 Shield generator
+5. Tinkerer's kit
 
 **Description:**
 	Engineers knows their way around their tools and mastered the art of combining things together to see what sticks. They can take a handful of raw materials and combine them into useful tech either for combat or utility. They are also fantastic at fixing things and figuring out how something ticks.
+
+**Features:**
+	Tinkering:
+		An engineer, during a long rest and if they have their tinkerer's kit on them, can combine different materials to craft gadgets.
 
 **Class Levels:**
 	Level 1:

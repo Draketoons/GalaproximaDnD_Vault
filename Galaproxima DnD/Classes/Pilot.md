@@ -2,8 +2,6 @@
 tags:
   - Class
 ---
-
-
 [[Classes]]
 **Hit Points:**
 	6
@@ -30,18 +28,28 @@ tags:
 	- Survival
 
 **Weapon Proficiencies**
-	None
+	Ship Weapons
 
 **Starting Equipment**
-1. 
+1. Ship Locator
+2. Ship Remote Control Pad
+3. Energy Pistol
 
 **Description:**
-	
+	For as long as star ships have been around, you need a pilot to pilot them. Non-pilots can technically fly ships but they won't have the same star-faring experience a pilot has.
+
+**Features:**
+	Evasive Maneuvers:
+		If piloting a ship during a ship-battle, a pilot can make a piloting-check of DC 13, if successful the ship gets a bonus move action instantly.
+	 Sky Strike:
+		If the pilot's ship has weapons, the ship is close enough the pilot, and the battle area has no coverage, the pilot can use their Remote Control Pad to remotely pilot the ship to fly above the area to shoot within the area. The pilot can pick any tile they see in range and any unit within a 10 fit radius of that tile must make a dexterity saving throw or take damage depending on the ship's weapons
 
 **Class Levels:**
 	Level 1:
 		Proficiency bonus: +2
 		Class Features: 
+			Evasive Maneuvers
+			Sky Strike
 		Verses: 2
 		Prepared Songs: 0
 		Song Slots Per Song Level:
@@ -340,3 +348,4 @@ tags:
 		Level 7: 1
 		Level 8: 1
 		Level 9: 1
+

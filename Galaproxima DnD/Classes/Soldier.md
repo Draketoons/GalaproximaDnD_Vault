@@ -44,9 +44,16 @@ tags:
 	- Energy Rifle
 	- Kinetic Pistol
 	- Kinetic Rifle
+2. 2 Rechargeable Mags if an energy weapon is chosen
+3. 12 Bullets if kinetic weapon is chosen
+4. Dagger
 
 **Description:**
 	
+
+**Features:**
+	Field Survey:
+		After a battle, a soldier can scavenge around the area to find any expended bullets while using a kinetic weapon. The soldier must make a perception check of DC 12 with advantage, if they succeed they receive the half the amount of bullets they expended rounded to the lowest number.
 
 **Class Levels:**
 	Level 1:

@@ -31,8 +31,6 @@ tags:
 **Starting Equipment**
 1. Choose 1 Resonance Instrument
 2. Song Book
-3. Robes
-4. Dagger
 
 **Description:**
 	Resomacers are among the few in the universe that knows about resonance and they have mastered it. These individuals use special musical instruments that tap into a special frequency that can influence the waveforms of subatomic particles, essentially manipulating matter and, in some cases, space time itself.

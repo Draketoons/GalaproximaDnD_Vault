@@ -33,10 +33,13 @@ tags:
 1. Guns
 
 **Starting Equipment**
-1. Choose 1 Between:
-	 - Energy Rifle
-	 - Energy Pistol
-2. 3 Rechargeable Mags
+1. Choose 1 from:
+	- Energy Pistol
+	- Energy Rifle
+	- Kinetic Pistol
+	- Kinetic Rifle
+2. 2 Rechargeable Mags if an energy weapon is chosen
+3. 12 Bullets if kinetic weapon is chosen
 
 **Description:**
 	
