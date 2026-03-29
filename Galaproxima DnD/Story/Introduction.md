@@ -1,0 +1,1 @@
+The galaxy is in peril, the republic of the once noble and democratic planet of Norak has been overthrown by a fascist regime run by an out of control tyrant, Sorg. The most shocking thing of all is, that people of Norak chose this fate. 

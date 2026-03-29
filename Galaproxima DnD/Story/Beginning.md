@@ -1,0 +1,1 @@
+All players some how end up at a space station ship yard in a neutral sector right next to an imperial sector 

@@ -43,12 +43,15 @@ tags:
 **Features:**
 	Tinkering:
 		An engineer, during a long rest and if they have their tinkerer's kit on them, can combine different materials to craft gadgets.
+	Salvaging:
+		An engineer, anytime when they are not in a battle, can salvage tinkering materials from objects around them like cyforms, machines, etc.
 
 **Class Levels:**
 	Level 1:
 		Proficiency bonus: +2
 		Class Features: 
 			Tinkering
+			Salvaging
 		Verses: 2
 		Prepared Songs: 0
 		Song Slots Per Song Level:
