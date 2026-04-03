@@ -14,7 +14,7 @@ tags:
 **Home World:** Depends on where it was made
 
 **Hit Points:** 
-	5
+	6
 
 **ASI:**
 
