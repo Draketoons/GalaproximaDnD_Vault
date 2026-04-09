@@ -25,7 +25,6 @@ tags:
 	- Tech
 	- Survival
 	- Insight
-	- Survival
 
 **Weapon Proficiencies**
 	Ship Weapons

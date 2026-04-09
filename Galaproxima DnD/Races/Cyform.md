@@ -33,7 +33,7 @@ tags:
 **Passive:**
 	A cyform does not need to breathe, eat, or sleep.
 	Some cyforms were built to hover in mid-air, meaning a floating bot character is not affected by the terrain type of any tile, as well as cross or hover over chasms or pits.
-	cyforms are affected by any sort of EMP attack and will be temporarily deactivated for 3 turns.
+	cyforms are affected by any sort of EMP attack and will be temporarily deactivated for 2 turns.
 
 **Proficiencies:**
 

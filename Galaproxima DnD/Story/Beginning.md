@@ -1,1 +1,3 @@
-All players some how end up at a space station ship yard in a neutral sector right next to an imperial sector 
+All players some how end up at the same space fueling station in a neutral sector in the 3rd quadrant of the galaxy.
+
+
