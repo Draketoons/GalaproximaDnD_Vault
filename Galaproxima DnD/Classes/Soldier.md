@@ -54,6 +54,9 @@ tags:
 **Features:**
 	Field Survey:
 		After a battle, a soldier can scavenge around the area to find any expended bullets while using a kinetic weapon. The soldier must make a perception check of DC 12 with advantage, if they succeed they receive the half the amount of bullets they expended rounded to the lowest number.
+	Tactical Roll:
+		During a battle a soldier can roll forward 15 ft without using up their movement action
+		(costs 1 resolve point)
 
 **Class Levels:**
 	Level 1:

@@ -39,9 +39,11 @@ tags:
 
 **Features:**
 	Evasive Maneuvers:
-		If piloting a ship during a ship-battle, a pilot can make a piloting-check of DC 13, if successful the ship gets a bonus move action instantly.
+		If piloting a ship during a ship-battle, a pilot can make a piloting-check of DC 13, if successful the pilot can turn the ship in any direction and move forward up to 3 tiles in one movement action
+		(costs 1 resolve point)
 	 Sky Strike:
 		If the pilot's ship has weapons, the ship is close enough the pilot, and the battle area has no coverage, the pilot can use their Remote Control Pad to remotely pilot the ship to fly above the area to shoot within the area. The pilot can pick any tile they see in range and any unit within a 10 fit radius of that tile must make a dexterity saving throw or take damage depending on the ship's weapons
+		(costs 1 resolve point)
 
 **Class Levels:**
 	Level 1:

@@ -31,6 +31,7 @@ Home World: Earth, Milky Way Galaxy
 
 Feral Leap:
 	A cat can leap onto a target 5-10 ft in front of them, the cat will remain on the target for 3 turns, for each turn the target rolls a dex check against the cat’s dex, if the target succeeds they will be able to take the cat and throw it off of them. If the target fails the dex check, they will take 1d4 slashing damage. If the target receives any kind of attack while the cat is on them, the cat will have to make a dex check against the target’s dex or the cat will receive the damage from the attack.
+		This ability costs 1 resolve point.
 
 Claw Slash:
 	A cat can use their sharp claws to slash at a target in front of them, dealing 1d4 slashing damage.

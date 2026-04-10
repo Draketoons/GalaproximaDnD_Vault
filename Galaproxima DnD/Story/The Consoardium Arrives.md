@@ -23,5 +23,5 @@ if the players don't comply, they enter combat.
 
 "Fine, have it your way, the less scum in the galaxy the better."
 
-
+[[Escape]]
 

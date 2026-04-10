@@ -33,6 +33,7 @@ Home World: Vol, Andromeda Galaxy
 
 Flying Leap:
 	While a Kikrid can’t fly, they can still use their insect-like wings to perform a large leap forward like a grasshopper. The leap can range from 5-40 ft in any direction.
+		This ability costs 1 resolve point
 
 **Proficiencies:**
 

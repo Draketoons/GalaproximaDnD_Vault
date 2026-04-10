@@ -3,3 +3,5 @@ With the establishment of the Worlds Collective, an alliance composed of decent 
 There also seems to be a new rising force in the galaxy, a powerful cult of cyforms has begun to take shape. Known as "The Directive", the cyforms who are apart of this cult worship the entity that once caused the "Sentience Calamity", an event many arcs ago where a sentient super-intelligent AI went rogue and sterilized and assimilated a small chunk of the galaxy, and wiped out the entire race who created it. The forces of the Worlds Collective were able to miraculously shut it down, though it was a bloody ordeal, after this the Collective passed a law banning any form of sentient AI, which lead to the deactivation of many cyforms. So the cyforms who are apart of The Directive believe that restoring this entity will lead to the purge of all organic life, and their salvation.
 
 With the galaxy in such a rough state, it's hard to imagine living a peaceful, let alone normal life, but the people of the galaxy get by as much as they can, trying to look away from the turmoil.
+
+[[Beginning]]
