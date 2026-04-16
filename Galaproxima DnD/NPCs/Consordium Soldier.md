@@ -16,8 +16,7 @@ Cha: 9 (-1)
 
 Speed: 30 ft
 
-Resolve Points: 2
+Resolve Points: 4
 
 Equipment:
 	Energy Rifle
-	

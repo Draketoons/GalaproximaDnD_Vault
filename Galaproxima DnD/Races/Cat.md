@@ -38,7 +38,7 @@ Claw Slash:
 
 **Passive:**
 	As we all know, cats HATE water, so whenever a cat character is wet or in water, all rolls are at a disadvantage.
-	For every other time a character interacts with the cat, the cat has to roll a d20, and if it’s less than or equal to 2, the cat is forced to perform a claw slash at the character the cat is interacting with.
+	For every other time a character interacts with the cat, the cat has to roll a d20, and if it’s less than or equal to 1, the cat is forced to perform a claw slash at the character the cat is interacting with.
 
 **Proficiencies:**
 

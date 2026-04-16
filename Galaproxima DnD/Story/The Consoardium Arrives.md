@@ -1,3 +1,7 @@
+---
+tags:
+  - Story
+---
 After a little while of the players breaking the ice, a Consoardium ship arrives at the station..
 
 *The sound of conversations and commerce suddenly begin to fade as a sense of dread and unease emerges. The civilian life forms around this station appear to be fleeing the immediate area either to a ship or to hiding. And that's when you see it, the shadow of a consoardium star ship blankets the area as it arrives at the station. The ship makes a landing as it's hydraulics ominously hiss while the ship's main ramp opens and touches the ground. 3 Lynexian soldiers march down, leaving the ship and facing the crowd.*

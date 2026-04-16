@@ -49,6 +49,9 @@ tags:
 		Proficiency bonus: +2
 		Class Features:
 			Bio-Hacking
+			3 Slowness biohacks
+			Poison biohack
+			2 Strength boost biohacks
 		Verses: 3
 		Prepared Songs: 0
 		Song Slots Per Song Level:
