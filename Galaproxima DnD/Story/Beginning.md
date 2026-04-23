@@ -13,4 +13,4 @@ Nasa has hitch hiked across the galaxy, making a living his own way (mostly by p
 **Chunt:**
 Chunt a couple of arcs ago escaped a Consoardium prison camp on his own homeword, and hitch hiked far enough to escape the grasp of the regime. Recently he has found work at Quilos station, the owners allow him to live here as long as he works.
 
-[[The Consoardium Arrives]]
+[[The Consordium Arrives]]
